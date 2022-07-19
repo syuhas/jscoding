@@ -1,4 +1,5 @@
-//constant variables
+//constants; const (eg. const num = 4;)
+//variables; var    (eg. var age = 37;)
 
 //number, unlike c++ this can be both a float and an int
 const myNum = 3;
